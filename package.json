@@ -1,0 +1,19 @@
+
+{
+  "name": "dns-inspector",
+  "version": "1.0.0",
+  "description": "A DNS inspection CLI built using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "dns",
+    "nodejs",
+    "networking",
+    "dns-inspector"
+  ],
+  "author": "",
+  "license": "MIT"
+}
